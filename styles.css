@@ -1,0 +1,63 @@
+.icon {
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+html {
+    background-color: cornsilk;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.head1 {
+    color: powderblue;
+    font-size: 400%;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    text-shadow: 2px 2px 1px skyblue;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+h4 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200%;
+    font-weight: 800;
+    color: pink;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+
+.garland {
+    text-align: center;
+}
+
+.flower {
+    display: inline-block;
+    position: relative;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.rec {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 150%;
+    font-weight: 700;
+    text-decoration: none;
+    text-shadow: 2px 2px 1px mediumpurple;
+    color: plum;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
